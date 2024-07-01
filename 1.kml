@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="transBluePoly"><LineStyle><width>1.5</width><color>501400E6</color></LineStyle></Style><Placemark>
+<name>20.189.173.23</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-121.891400,37.338800
+-97.822000,37.751000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>20.189.173.23</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-121.891400,37.338800
+-97.822000,37.751000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>140.82.114.25</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-71.050700,42.358200
+-97.822000,37.751000</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
